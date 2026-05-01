@@ -1,0 +1,9 @@
+target,driver,value,relative_to_average
+Revenue,highest_month_effect,5,1.4253829186094775
+Revenue,lowest_month_effect,12,0.5198990169701032
+Revenue,highest_day_of_week_effect,0,1.0201485103698475
+Revenue,lowest_day_of_week_effect,4,0.9780436851674321
+COGS,highest_month_effect,4,1.3969933096087928
+COGS,lowest_month_effect,1,0.5614415547547688
+COGS,highest_day_of_week_effect,0,1.0286611550698899
+COGS,lowest_day_of_week_effect,4,0.9668988548974877

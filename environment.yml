@@ -1,0 +1,16 @@
+﻿name: datathon-final-pipeline
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - numpy==1.26.4
+      - pandas==2.2.2
+      - matplotlib==3.6.0
+      - seaborn==0.13.2
+      - scipy==1.13.1
+      - squarify==0.4.4
+      - openpyxl==3.1.2
+      - scikit-learn==1.5.1
+      - shap==0.44.1
